@@ -151,7 +151,7 @@ Please email any of the following team member for further information:
 
 ## Repository
 
-<div>Original repoitory link:   https://github.com/stithac/group1_project2</div>
+<div>Original repository link:   https://github.com/stithac/group1_project2</div>
 <div>Forked link to my repository:  https://github.com/jtoth7824/group1_project2/</div>
 
 ## Deployment
