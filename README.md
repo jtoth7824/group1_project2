@@ -129,9 +129,9 @@ Followed by entering localhost:8080 in your browser URL line.
 
 Please email any of the following team member for further information:
 
-1.  Ashley Stith: ashleyc.stith@gmail.com
-2.  Ikra Rafia: irafi@nlihc.org
-3.  John Toth: jtoth7824@gmail.com
+1.  Ashley Stith: ashleyc.stith@gmail.com      https://github.com/stithac
+2.  Ikra Rafia: irafi@nlihc.org                https://github.com/ikra-rafi
+3.  John Toth: jtoth7824@gmail.com             https://github.com/jtoth7824
 
 ## Technologies
 
