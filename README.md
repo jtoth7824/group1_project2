@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://www.mit.edu/~amini/LICENSE.md)
+
 # Petocracy
 
 Petocracy is an application designed to help out pet owners during the current Covid-19 crisis when people may be out of work and having a hard time paying bills.   Petocracy allows a pet owner to register as a user and request help from volunteers in either a monetary form or requesting help with services i.e. buying food, walking pet, housesitting, etc...   Any person can also register to be a volunteer to either sponsor the pet monetarily or volunteer to help out providing the specific need from the pet owner.  The application also allows the pet owner to upload a picture of their pet.   All the pets for either services requested or donations are displayed when a volunteer is trying to choose which pet to support.   A person who does not wish to register at the site can also just make a general donation to the cause to help out all pet owners.
